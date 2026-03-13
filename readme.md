@@ -28,4 +28,4 @@ Em uma máquina de Moore, o valor estaria fixo no estado, o que dificultaria ess
 2. **Com saída (Emissão):** Transições dentro dos loops (ex: `in ["X", "q2_d"]` emitindo `@value += 10`).
 
 ## 4. Diagrama Mermaid
-![Descrição do Diagrama](docs/diagrama.png)
+![Descrição do Diagrama](docs/diagram.png)
